@@ -1,11 +1,11 @@
 {
   "homePage": {
-    "header_text": "<b>WELCOME TO<br />BAHMNI EMR FOR CLINICS",
-    "logo": "/bahmni/images/bahmniLogoFull.png",
-    "title_text": " "
+    "header_text": "<b>WELCOME TO<br />OJ-KONSULT</b>",
+    "logo": "/bahmni_config/openmrs/apps/home/ojkonsult-logo.svg",
+    "title_text": "Oj-Konsult"
   },
   "loginPage": {
-    "logo": "/bahmni/images/bahmniLogoFull.png",
+    "logo": "/bahmni_config/openmrs/apps/home/ojkonsult-logo.svg",
     "showHeaderText": true,
     "showTitleText": false
   },
