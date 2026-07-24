@@ -35,8 +35,8 @@
         },
         "patientSearch": { 
             "customAttributes": {
-                "label": "Phone Number",
-                "placeholder": "Phone Number",
+                "label": "Phone / Next of Kin",
+                "placeholder": "Phone / Next of Kin",
                 "fields": ["phoneNumber","alternatePhoneNumber"]
             }
         },
