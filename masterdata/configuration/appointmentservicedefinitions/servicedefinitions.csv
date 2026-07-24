@@ -5,3 +5,7 @@ Uuid,Void/Retire,Name,Description,Duration,Start Time,End Time,Max Load,Speciali
 ,,ENT OPD Consultation,Appointment for ENT Consultation,15,,,,ENT,,,
 ,,ENT Follow-up Consultation,Appointment for ENT Follow-up,15,,,,ENT,,,
 ,,ENT Procedure,Appointment for ENT Procedure,15,,,,ENT,,,
+,,Dental OPD Consultation,Appointment for Dental Consultation,20,,,,Dental,,,
+,,Dental Procedure,Appointment for Dental Procedure,30,,,,Dental,,,
+,,Antenatal Clinic Visit,Routine antenatal care visit,20,,,,Antenatal,,,
+,,Paediatric OPD Consultation,Appointment for Paediatric Consultation,15,,,,Paediatrics,,,
